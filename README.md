@@ -7,8 +7,8 @@ Good looking planets in ThreeJS [in progress].
 ## Installation
 
 ```bash
-git clone git@github.com:Astrak/three-planets
-cd three-planets
+git clone git@github.com:stardustdev9/planets
+cd planets
 yarn
 yarn start
 ```
